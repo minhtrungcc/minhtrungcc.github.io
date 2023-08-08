@@ -1,0 +1,18 @@
+name: Trung Nguyen
+dp: "/assets/avatar.jpg"
+description: "
+  <p>
+    Mindfulness technology advancements for the world.
+  </p>
+  <br/>
+"
+email: minhtrung@pm.me
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/MinhTrungCC
+  - title: github
+    url: https://github.com/MinhTrungCC
+  - title: twitter
+    url: https://twitter.com/MinhTrungCC
+  - title: email
+    url: mailto:minhtrung@pm.me
