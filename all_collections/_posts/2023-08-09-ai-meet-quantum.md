@@ -1,9 +1,11 @@
 ---
 layout: post
-title: The Synergy of AI and Quantum Computing
+title: The Marriage of AI and Quantum Computing
 date: 2023-08-09 19:08:00
 categories: [tech]
 ---
+
+![alt](https://picsum.photos/800/300)
 
 # Introduction
 
