@@ -6,7 +6,7 @@ categories: [tech]
 ---
 
 
-![alt](https://picsum.photos/800/300)
+![alt](https://picsum.photos/seed/The-Marriage-of-AI-and-Quantum-Computing/800/300)
 
 # Introduction
 
