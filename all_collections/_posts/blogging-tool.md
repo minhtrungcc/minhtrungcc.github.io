@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 interesting & promosing technologies for better human
+title: Ultimate personal blogging tools
 date: 2023-08-08 10:18:00
 categories: [tech]
 ---
