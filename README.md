@@ -2,4 +2,4 @@
 
 > Created using Jekyll Theme Serial Programmer (-.-)
 
-[Live Demo](https://sharadcodes.github.io/jekyll-theme-serial-programmer/)
+[Visit Blog](https://trung.cc/)
