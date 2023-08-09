@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Technologies Pioneering a Brighter Tomorrow for Humanity 
-date: 2023-08-08 10:18:00
+date: 2023-08-08
 categories: [tech]
 ---
 
