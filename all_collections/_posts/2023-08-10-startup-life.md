@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life at a startup company as a product manager
-date: 2023-08-10 10:18:00
+date: 2023-08-10
 categories: [startup]
 ---
 
