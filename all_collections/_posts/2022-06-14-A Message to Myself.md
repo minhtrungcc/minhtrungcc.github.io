@@ -2,7 +2,7 @@
 layout: post
 title: A Message to Myself 
 date: 2022-06-14
-categories: [tech]
+categories: [myself]
 ---
 
 
