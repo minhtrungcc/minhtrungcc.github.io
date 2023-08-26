@@ -9,7 +9,6 @@ categories: [myself]
 ![alt](/assets/cover.jpg)
 
 
-# A Message to Myself
 
 If you’re reading this, I know that you might be having a hard time. So I hope that one of those messages can help you find yourself.
 
