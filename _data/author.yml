@@ -1,14 +1,16 @@
-name: Trung Nguyen
+name: Nguyen Minh Trung
 dp: "/assets/avatar.jpg"
 description: "
   <p>
     Mindful Technology Advancements for Human. 
-    
+  
   </p>
   <br/> What will interest me? History, Physics, Philosophy, Business, Technology, Education
 "
 email: minhtrung@pm.me
 contact:
+  - title: confidence
+    url: /posts/A-Message-to-Myself/
   - title: twitter
     url: https://twitter.com/MinhTrungCC
   - title: email

@@ -6,59 +6,28 @@ categories: [myself]
 ---
 
 
-![alt](https://picsum.photos/seed/A Message to Myself/800/300)
+![alt](/assets/cover.jpg)
 
 
-# A Message to Myself
 
 If you’re reading this, I know that you might be having a hard time. So I hope that one of those messages can help you find yourself.
 
-<aside>
-🔑 Need ideas? Just read. Having too many ideas? Just write.
+1. 🔑 Need ideas? Just **read**. Having too many ideas? Just **write**.
 
-</aside>
+1. 🔑 Leaning towards **actions**
 
-<aside>
-🔑 Leaning towards actions
+1. 🧠 Remember that the more **you know**, the more you **don’t know**
 
-</aside>
+1. 💎 A diamond starts as nothing special, but with **pressure** and **time**, becomes spectacular
 
-<aside>
-🧠 Remember that the more **you know**, the more you **don’t know**
+1. 💪 If you get lost, just find your will. There is a **will**, there is a **way**
 
-</aside>
+1. 🗣 If you don’t know, just **ASK**!
 
-<aside>
-💎 A diamond doesn't start out polished and shining. It once was nothing special, but with enough **pressure** and **time**, becomes spectacular
+1. ⏰ Good things take **time**. Easy come, easy gone
 
-</aside>
+1. 👤 If you want to be someone, learn to **think** like them first
 
-<aside>
-💪 If you get lost, just find your will. There is a **will**, there is a **way**
+1. ⏳ Keep yourself **disciplined**
 
-</aside>
-
-<aside>
-🗣 If you don’t know, just **ASK**!
-
-</aside>
-
-<aside>
-⏰ Good things take time
-
-</aside>
-
-<aside>
-👤 If you want to be someone, learn to think like them first
-
-</aside>
-
-<aside>
-⏳ Keep yourself disciplined
-
-</aside>
-
-<aside>
-👠 Confidence is not about being better than others, but about knowing you’re unique
-
-</aside>
+1. 👠 Confidence is not about being better than others, but about knowing you’re **unique**
