@@ -39,7 +39,7 @@ If you’re reading this, I know that you might be having a hard time. So I hope
 </aside>
 
 <aside>
-🗣 If you don’t know, just **TALK**!
+🗣 If you don’t know, just **ASK**!
 
 </aside>
 
@@ -62,5 +62,3 @@ If you’re reading this, I know that you might be having a hard time. So I hope
 👠 Confidence is not about being better than others, but about knowing you’re unique
 
 </aside>
-
-[Blog](https://www.notion.so/Blog-4f44028c753a4bc3b3b20b5372f014e5?pvs=21)
